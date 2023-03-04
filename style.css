@@ -1,0 +1,660 @@
+.rasm1{
+    width: 197px;
+    margin-left: 105px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+header nav ul{
+  display: flex;
+  margin-left:800px;
+  margin-top:-60px;
+  font-size:110%;
+}
+header nav ul li {
+  margin-left:30px;
+  list-style-type:none;
+  color: black;
+  display: flex;
+}
+header nav ul li a{
+  text-decoration:none;
+  color: black;
+ 
+}
+header nav ul li a:hover{
+ color:blue;
+    }
+
+    .ota button{
+      margin-left:50px;
+      padding-left:15px;
+      padding-right:15px;
+      padding-top:10px;
+      padding-bottom:10px;
+      background-color:#2487CE;
+      color: #fff;
+      border-radius:6px;
+      border:0px solid #fff;
+      margin-top:-5px;
+      font-size:110%;
+      cursor: progress;
+
+     }
+
+/* .navbar{
+    display: flex;
+    margin-left:560px;
+    margin-top:-60px;
+    font-size:150%;
+ }
+
+.nav-link{
+    margin-left:30px;
+    list-style-type:none;
+    color: #16507B;
+    display: flex;
+    
+ }
+
+.nav-link{
+    text-decoration:none;
+    color: #16507B;
+   
+ }
+.getstarted:hover{
+   color:#d6b89b;
+   text-decoration:none;    
+      }
+
+      .yusuf{
+        list-style-type:none;
+      } */
+
+      hr{
+        margin-top: 16px;
+        color: #E6F2FB;
+      }
+
+      .orta{
+        background-image: url(https://www.onlygfx.com/wp-content/uploads/2021/04/white-triangle-pattern-seamless-background-2.jpg);
+        width: 1500px;
+        height: 1000px;
+        background-size: cover;
+      background-attachment: fixed;
+      }
+
+      .bosh h1{
+        text-align: center;
+        color: #124164;
+        font-family: sans-serif;
+        font-size: 56px;
+        margin-top: 120px;
+        margin-right: 30px;
+      }
+
+      .kuf{
+        color: white;
+      }
+
+      .bosh h2{
+        font-family: sans-serif;
+        color: #5E5E5E;
+        margin-left: 30px;
+        text-align: center;
+      }
+
+     .tell{
+        /* border: 1px solid red; */
+        text-decoration:none;
+        background-color: #2487CE;
+        color: white;
+        padding-top: 14px;
+        padding-left: 50px;
+        padding-bottom: 14px;
+        padding-right: 50px;
+        margin-left: 635px;
+        border-radius: 5px;
+        cursor: url('C:/Users/Hp/Downloads/fuck.png'), pointer;
+         /* position: fixed;
+        bottom: 15;  */
+     }
+
+     .tel{
+        margin-top: 90px;
+     }
+
+     .ramkabir{
+      background-color: rgb(255, 255, 255);
+      width: 240px;
+      height: 374px;
+      margin-top: 100px;
+      margin-left: 100px;
+      border-radius: 10px;
+      box-shadow: -0px  8px 10px black;
+      
+      
+     }
+
+     .ramkabir img{
+      width: 36px;
+      height: 36px;
+      margin-top: 70px;
+      margin-left: 40px;
+     }
+
+     .ramkabir h4{
+      font-family: sans-serif;
+      margin-left: 40px;
+      color: black;
+      margin-top: 40px;
+      margin-left: 40px;
+     }
+
+     .ramkabir p{
+      font-family: sans-serif;
+      color: black;
+      margin-left: 40px;
+     }
+
+     .ramkaikki{
+      background-color: rgb(255, 255, 255);
+      width: 240px;
+      height: 374px;
+      margin-top: -378px;
+      margin-left: 450px;
+      border-radius: 10px;
+      box-shadow: -0px  8px 10px black;
+     }
+
+     .ramkaikki img{
+      width: 36px;
+      height: 36px; 
+      margin-top: 70px;
+      margin-left: 40px;
+     }
+
+     .ramkaikki h4{
+      font-family: sans-serif;
+      margin-left: 40px;
+      color: black;
+      margin-top: 40px;
+      margin-left: 40px;
+     }
+
+     .ramkaikki p{
+      font-family: sans-serif;
+      color: black;
+      margin-left: 40px;
+     }
+
+     .ramkauch{
+      background-color: rgb(255, 255, 255);
+      width: 240px;
+      height: 374px;
+      margin-top: -375px;
+      margin-left: 800px;
+      border-radius: 10px;
+      box-shadow: -0px  8px 10px black;
+     }
+
+     .ramkauch img{
+      width: 36px;
+      height: 36px; 
+      margin-top: 70px;
+      margin-left: 40px; 
+     }
+
+     .ramkauch h4{
+      font-family: sans-serif;
+      margin-left: 40px;
+      color: black;
+      margin-top: 40px;
+      margin-left: 40px;
+     }
+
+     .ramkauch p{
+      font-family: sans-serif;
+      color: black;
+      margin-left: 40px;
+     }
+
+     .ramkator{
+       background-color: rgb(255, 255, 255);
+      width: 240px;
+      height: 374px;
+      margin-top: -375px;
+      margin-left: 1170px;
+      border-radius: 10px;
+      box-shadow: -0px  8px 10px black;
+     }
+
+     .ramkator img{
+      width: 36px;
+      height: 36px; 
+      margin-top: 70px;
+      margin-left: 40px; 
+     }
+
+     .ramkator h4{
+      font-family: sans-serif;
+      margin-left: 40px;
+      color: black;
+      margin-top: 40px;
+      margin-left: 40px;
+     }
+
+     .ramkator p{
+      font-family: sans-serif;
+      color: black;
+      margin-left: 40px;
+     } 
+
+     .fuck{
+      margin-top: 250px;
+      padding: 0px 12px 30px;
+     }
+
+     .fuck h2{
+        text-align: center;
+        color: #124164;
+        font-family: sans-serif;
+        font-size: 32px;
+     }
+
+     .fuck p{
+      text-align: center;
+      color: #919191;
+      font-family: sans-serif;
+      font-size: 14px;
+     }
+
+    .yus{
+      color: #444444;
+      font-family: sans-serif;
+      font-size: 16px;   
+      margin-left: 100px; 
+      margin-top: -50px;
+     } 
+
+     .dizayn{
+      color: #444444;
+      font-family: sans-serif;
+      font-size: 18px;
+      margin-left: 40px;
+     }
+
+
+     .dizaynn{
+      font-family: sans-serif;
+      font-size: 15px;
+     }
+
+     .mobile{
+      color: #444444;
+      font-family: sans-serif;
+      font-size: 18px;
+      margin-left: 40px;
+     }
+
+     .mobilee{
+      font-family: sans-serif;
+      font-size: 15px;
+     }
+
+
+     .rasm{
+      position: absolute;
+      bottom: -620px;
+      width: 28px;
+      height: 28px;
+     }
+
+     .rasmm{
+      position: absolute;
+      bottom: -776px;
+      width: 28px;
+      height: 28px;
+     }
+
+     .yusu{
+      color: #444444;
+      font-family: sans-serif;
+      font-size: 16px;
+      margin-left: 700px;
+      margin-top: -300px;
+      
+
+     }
+
+     .pocha{
+      margin-left: 40px;
+     }
+
+      .rasmbir{
+      width: 28px;
+      height: 28px;
+      position: absolute;
+      bottom: -630px;
+     }
+
+     .rasmikki{
+      width: 28px;
+      height: 28px;
+      position: absolute;
+      bottom: -745px;
+     } 
+
+     .kent{
+      margin-left: 40px;
+     }
+
+     .krug{
+      width: 1510px;
+      height: 123px;
+      background-color: #F8FBFE;
+      margin-top: 120px;
+     }
+     
+
+     a.rollover {
+       background: url("C:/Users/Hp/OneDrive/Изображения/CODELAB/photo_2023-01-21_14-33-05.png"); 
+       display: block;
+       width: 80px;
+       height: 75px;
+       transition: all .3s linear;
+       -webkit-transition: all .3s linear;
+       -moz-transition: all .3s linear;
+       position: absolute;
+       bottom: -1060px;
+       left: 140px;
+     }
+     a.rollover:hover {
+      background: url("C:/Users/Hp/OneDrive/Изображения/CODELAB/photo_2023-01-21_14-33-05.jpg"); 
+     }
+
+     a.rolloverq{
+      background: url("C:/Users/Hp/OneDrive/Изображения/CODELAB/photo_2023-01-21_14-33-11.png"); 
+       display: block;
+       width: 150px;
+       height: 99px;
+       transition: all .3s linear;
+       -webkit-transition: all .3s linear;
+       -moz-transition: all .3s linear;
+       bottom: -1090px;
+       left: 200px;
+     }
+
+     a.rolloverq:hover{
+      background: url("C:/Users/Hp/OneDrive/Изображения/CODELAB/photo_2023-01-21_14-33-11.jpg");
+     }
+
+     .oyi{
+      margin-left: 300px;
+     }
+
+     a.rolloverw{
+      background: url("C:/Users/Hp/OneDrive/Изображения/CODELAB/photo_2023-01-21_14-33-16.png"); 
+       display: block;
+       width: 150px;
+       height: 76px;
+       transition: all .3s linear;
+       -webkit-transition: all .3s linear;
+       -moz-transition: all .3s linear;
+       bottom: -1000px;
+
+     }
+
+     a.rolloverw:hover{
+      background: url("C:/Users/Hp/OneDrive/Изображения/CODELAB/photo_2023-01-21_14-33-16.jpg");
+     }
+
+     .yusuff{
+      margin-left: 540px;
+      margin-top: -90px;
+     }
+
+     a.rollovere{
+      background: url("C:/Users/Hp/OneDrive/Изображения/CODELAB/photo_2023-01-21_14-33-20.png"); 
+       display: block;
+       width: 170px;
+       height: 125px;
+       transition: all .3s linear;
+       -webkit-transition: all .3s linear;
+       -moz-transition: all .3s linear;
+       bottom: -1000px;
+
+     }
+
+     a.rollovere:hover{
+      background: url("C:/Users/Hp/OneDrive/Изображения/CODELAB/photo_2023-01-21_14-33-20.jpg");
+     }
+
+     .tttt{
+      margin-left: 750px;
+      margin-top: -130px;
+     }
+
+     a.rolloverr{
+      background: url("C:/Users/Hp/OneDrive/Изображения/CODELAB/photo_2023-01-21_14-33-31.png"); 
+       display: block;
+       width: 170px;
+       height: 135px;
+       transition: all .3s linear;
+       -webkit-transition: all .3s linear;
+       -moz-transition: all .3s linear;
+       bottom: -1000px;
+
+     }
+
+     a.rolloverr:hover{
+      background: url("C:/Users/Hp/OneDrive/Изображения/CODELAB/photo_2023-01-21_14-33-31.jpg");
+     }
+
+     .qwe{
+      margin-left: 1000px;
+      margin-top: -140px;
+     }
+
+     a.rollovert{
+      background: url("C:/Users/Hp/OneDrive/Изображения/CODELAB/photo_2023-01-21_14-33-34.png"); 
+       display: block;
+       width: 80px;
+       height: 70px;
+       transition: all .3s linear;
+       -webkit-transition: all .3s linear;
+       -moz-transition: all .3s linear;
+       bottom: -1000px;
+
+     }
+
+     a.rollovert:hover{
+      background: url("C:/Users/Hp/OneDrive/Изображения/CODELAB/photo_2023-01-21_14-33-34.jpg");
+     }
+
+     .qwer{
+      margin-left: 1290px;
+      margin-top: -100px;
+     }
+
+     .ty{
+      color: #124265;
+      font-size: 42px;
+      font-family: sans-serif;
+      margin-top: 100px;
+      text-align: center;
+     }
+
+     .rasmilar img{
+      width: 396px;
+      height: 396px;
+     }
+
+     .yusss{
+      display: flex;
+     }
+
+     .rasmilarbir{
+      margin-left: 100px;
+     }
+
+     .rasmilarikki{
+    margin-left: 40px;
+     }
+
+     .rasmilaruch{
+      margin-left: 50px;
+      margin-top: -1px;
+     }
+
+     .yuss{
+      display: flex;
+      margin-top: 50px;
+     }
+
+     .rasimlartor{
+      margin-left: 100px
+     }
+
+     .rasmilarbesh{
+      margin-left: 40px;
+     }
+
+     .rasmilarolti{
+      margin-left: 50px;
+     }
+
+     .k h1{
+      color: #124265;
+      text-align: center;
+      margin-top:150px;
+     
+     }
+     .m{
+      
+      margin-top:100px;
+      padding-bottom:50px;
+      margin-left:430px;
+      margin-right:100px ;
+      background-color:#2487CE;
+     }
+     .m p{
+      text-align: center;
+      width:1100px;
+      font-size:130%;
+      color: #fff;
+      padding-left:45px; 
+     }
+     .m h1{
+      color: #fff;
+      padding-top:80px;
+      text-align: center;
+     }
+     .m button{
+      margin-left:450px;
+      margin-top:40px;
+      color: #fff;
+      background-color: #2487CE;
+      border:1px solid #fff;
+      border-radius:5px;
+      padding-left:40px;
+      padding-top:15px;
+      padding-bottom:15px;
+      padding-right:40px;
+      font-size:130%;
+     }
+     .a{
+      margin-top:-300px;
+     }
+     
+     .a img{
+      width:60px;
+      border-radius:5px;
+      margin-left:100px;
+     }
+     .a h1{
+      color: #124265;
+      margin-left:180px;
+      margin-top:-65px;
+     }
+     .a p{
+      color: #124265;
+      margin-left:180px;
+      margin-top:-25px;
+     }
+     .b img{
+      height:60px;
+      width:60px;
+      border-radius:5px;
+      margin-left:100px;
+      margin-top:10px;
+     }
+     .b h1{
+      color: #124265;
+      margin-left:180px;
+      margin-top:-65px;
+     }
+     .b p{
+      color: #124265;
+      margin-left:180px;
+      margin-top:-20px;
+     }
+     .p img{
+      height:60px;
+      width:60px;
+      border-radius:5px;
+      margin-left:100px;
+      margin-top:10px;
+     }
+     .p h1{
+      color: #124265;
+      margin-left:180px;
+      margin-top:-65px;
+     }
+     .p p{
+      color: #124265;
+      margin-left:180px;
+      margin-top:-20px;
+     }
+     .l img{
+    
+      border-radius:50px;
+     }
+     .q{
+      width:40px;
+      margin-left:100px;
+      margin-top:50px;
+     }
+     .v{
+      width:50px;
+     }
+     .z{
+      width:50px;
+     }
+     .l p{
+      margin-left:740px;
+      padding-bottom:10px;
+     }
+
+      /* .mybtn{
+      text-align: center; 
+      padding: 8px 10px; 
+      color: #7777; 
+      background:#ffffff;
+       transition: all .3s linear;
+      -webkit-transition: all .3s linear;
+      -moz-transition: all .3s linear; 	
+    
+    }
+ 
+    .mybtn:hover{
+      color: #fff;
+      background: rgb(0, 149, 255);
+       transition: all .3s linear;
+      -webkit-transition: all .3s linear;
+      -moz-transition: all .3s linear;  
+      z-index: -1;
+      opacity: 0.4;
+    }
+
+    
